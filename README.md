@@ -35,6 +35,7 @@
 * <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson3/matplotlib.ipynb">Matplotlib</a> <a target="_blank" href="https://colab.research.google.com/github/da-python/new-modul-python/blob/main/Lesson3/matplotlib.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+* https://www.youtube.com/watch?v=Sz7K2fCmDuo
 <hr>
 <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson4/hometask/SyntheticRubber.ipynb">Задание к уроку</a> <a target="_blank" href="https://colab.research.google.com/github/da-python/new-modul-python/blob/main/Lesson3/hometask/SyntheticRubber.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
