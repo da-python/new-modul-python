@@ -3,8 +3,8 @@
 1. Начало работы с Python 
 * <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson1/notebooks/1.intro.ipynb">Основные типы и структуры данных в python</a>
 * <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson1/notebooks/2.loops.ipynb">Циклы, тернарные операторы, функции</a>
-* <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson1/notebooks/4.exceptions.ipynb">Обработка ошибок</a>
 * <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson1/notebooks/3.files.ipynb">Чтение файлов</a>
+* <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson1/notebooks/4.exceptions.ipynb">Обработка ошибок</a>
 * <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson1/notebooks/5.modul.ipynb">Создание модулей </a>
 * <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson1/notebooks/6.decorator.ipynb">Декораторы</a>
 <hr>
