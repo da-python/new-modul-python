@@ -11,7 +11,8 @@
 <a href="https://github.com/da-python/new-modul-python/tree/main/Lesson1/hometask">Задание к уроку</a><a target="_blank" href="https://colab.research.google.com/github/da-python/new-modul-python/blob/main/Lesson1/hometask/without_pandas.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
+2. Работа с Pandas
+* <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson3/notebooks/pandas_vacancy.ipynb">Декораторы</a>
 <a href="https://github.com/da-python/new-modul-python/tree/main/Lesson4/hometask">Задание к уроку</a><a target="_blank" href="https://colab.research.google.com/github/da-python/new-modul-python/blob/main/Lesson4/hometask/onlineShopping_c.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
