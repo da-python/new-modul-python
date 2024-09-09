@@ -20,5 +20,15 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <hr>
+3. Визуализация данных в python
 
+* <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson5/notebooks/matplotlib.ipynb">Matplotlib</a>
+* <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson5/notebooks/matplotlib_piecharts.ipynb">Круговые диагрммы в matplotlib</a>
+* <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson5/notebooks/seaborn.ipynb">Seaborn</a>
+* <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson5/notebooks/plotly.ipynb">Plotly</a>
+<hr>
+<a href="https://github.com/da-python/new-modul-python/tree/main/Lesson5/hometask">Задание 3</a><a target="_blank" href="https://colab.research.google.com/github/da-python/new-modul-python/blob/main/Lesson5/hometask/onlineShoppingVis.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+<hr>
 
