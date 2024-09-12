@@ -15,6 +15,7 @@
 
 2. Работа с таблицами
 * <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson3/notebooks/pandas_vacancy.ipynb">Pandas на примере задания по вакансиям</a>
+* <a href="https://github.com/da-python/new-modul-python/blob/main/Lesson6/notebooks/numpy.ipynb">Работа с массивами в Numpy</a>
 <hr>
 <a href="https://github.com/da-python/new-modul-python/tree/main/Lesson4/hometask">Задание 2</a><a target="_blank" href="https://colab.research.google.com/github/da-python/new-modul-python/blob/main/Lesson4/hometask/onlineShopping_c.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
